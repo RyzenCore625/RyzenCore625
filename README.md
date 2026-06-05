@@ -1,37 +1,175 @@
-<h1 align="center">Hi 👋, I'm aditya febrian s</h1>
-<h3 align="center">A passionate frontend developer from Java timur Ngebel</h3>
+# 👋 Hi, I'm RyzenCore625
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryzencore625&label=Profile%20views&color=0eb45e&style=flat" alt="ryzencore625" /> </p>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Application+Engineer;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryzencore625" alt="ryzencore625" /></a> </p>
+  **Building Modern Web Applications with Passion & Precision**
+  
+</div>
 
-- 🔭 I’m currently working on **none**
+---
 
-- 🌱 I’m currently learning **html&css, php**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **none**
+I'm a **Professional Full Stack Developer** passionate about creating scalable, efficient, and user-centric web applications. With expertise across the entire development stack, I transform ideas into powerful digital solutions.
 
-- 🤝 I’m looking for help with **uiux**
+- 💼 Full Stack Developer | Web Engineer
+- 🎯 Specialized in end-to-end application development
+- 🔧 Proficient with modern tech stack
+- 📚 Continuous learner & tech enthusiast
+- 🌍 Open to collaboration & innovation
 
-- 👨‍💻 All of my projects are available at [https://github.com/RyzenCore625/RyzenCore625](https://github.com/RyzenCore625/RyzenCore625)
+---
 
-- 💬 Ask me about **joke**
+## 💻 Tech Stack
 
-- 📫 How to reach me **adityafebrian625@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **i think i am funny>**
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/aditya fbrynsyh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya fbrynsyh" height="30" width="40" /></a>
-<a href="https://instagram.com/yaditya_ya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaditya_ya" height="30" width="40" /></a>
-</p>
+### 🔧 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+### 🗄️ Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryzencore625&show_icons=true&locale=en&layout=compact" alt="ryzencore625" /></p>
+### 🛠️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryzencore625&show_icons=true&theme=radical&locale=en" alt="ryzencore625" /></p>
+### 📦 Additional Tools
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryzencore625&" alt="ryzencore625" /></p>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyzenCore625&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyzenCore625&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Key Competencies
+
+<table align="center">
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Backend</b></td>
+<td align="center"><b>Database</b></td>
+<td align="center"><b>DevOps</b></td>
+</tr>
+<tr>
+<td>
+  
+• Responsive Design  
+• Component Architecture  
+• State Management  
+• Performance Optimization  
+• UI/UX Implementation  
+
+</td>
+<td>
+  
+• RESTful APIs  
+• Authentication & Security  
+• Server Architecture  
+• Business Logic  
+• Real-time Features  
+
+</td>
+<td>
+  
+• Database Design  
+• Query Optimization  
+• Data Modeling  
+• Migrations  
+• Backup & Recovery  
+
+</td>
+<td>
+  
+• CI/CD Pipelines  
+• Server Deployment  
+• Container Management  
+• Monitoring & Logging  
+• Infrastructure Setup  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Featured Projects
+
+Coming soon - Check out my repositories below! ⬇️
+
+---
+
+## 📈 Recent Activity
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RyzenCore625&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityafebrian625@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yaditya_ya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+## 💡 Quote
+
+> *"The best code is not just functional, but elegant, maintainable, and built with passion."*
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, feel free to star my repositories!
+
+![Visitors](https://komarev.com/ghpvc/?username=RyzenCore625&color=00D9FF&style=flat-square)
+
+</div>
